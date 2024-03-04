@@ -1,0 +1,14 @@
+{
+  "name": "playwright-getting-started",
+  "version": "1.0.0",
+  "description": "Starting out with the [Getting Started docs](https://playwright.dev/docs/intro) at playwright.dev",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24"
+  }
+}
